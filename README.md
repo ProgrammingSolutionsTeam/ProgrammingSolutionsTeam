@@ -58,7 +58,7 @@ We serve a wide range of sectors:
 ---
 
 ## 📫 Contact Us
-- 📧 Emails: [prog.solve@gmail.com](mailto:prog.solve@gmail.com) | [info@unitapp.net](mailto:info@unitapp.net)  
+- 📧 Emails: [prog.solve@gmail.com](mailto:prog.solve@gmail.com)
 - 📞 Phone: +967 781 548 181  
 - 💬 WhatsApp: [+967 734 856 121](https://wa.me/967734856121)  
 - 🌐 Website: [https://programmers.42web.io](https://programmers.42web.io)  
